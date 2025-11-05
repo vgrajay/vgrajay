@@ -1,16 +1,63 @@
-## Hi there 👋
+# 💻 Ajay Vibhas — Project Portfolio
 
-<!--
-**vgrajay/vgrajay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🚀 *A showcase of completed and ongoing projects built with innovation, intelligence, and impact.*
 
-Here are some ideas to get you started:
+![GitHub followers](https://img.shields.io/github/followers/ajayvibhas?label=Follow\&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=ajayvibhas\&label=Profile%20views\&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✅ Finished Project
+
+### 🫀 Cardiovascular Disease Prediction System (CVD)
+
+> A dual-model AI system combining **CNN, RNN, and ANN** for accurate heart disease prediction using both image and clinical data.
+> **Highlights:**
+
+* Deep learning fusion model
+* Medical image + temporal data processing
+* Achieved high accuracy on clinical datasets
+* User-friendly health analysis dashboard
+
+---
+
+## 🚧 Ongoing Projects
+
+### 🆘 IntroAID — Intro Arise Instant Destination
+
+> A real-time routing system for emergency vehicles using **GPS** and **Google Maps API** to minimize response time.
+
+**Features:**
+
+* Live traffic data integration
+* Automatic shortest route calculation
+* Real-time GPS tracking for ambulances
+* Emergency route alerting system
+
+---
+
+### 🏥 Hospital ICU Blockchain Security System
+
+> A blockchain-based platform to ensure **data integrity**, **confidentiality**, and **security** for ICU patient records.
+
+**Features:**
+
+* Detects unauthorized data changes
+* Encrypts patient and medical data
+* Logs attacker IP and preserves original record
+* Blockchain-verified storage for security
+
+---
+
+## 🧑‍💻 Author
+
+**Ajay Vibhas V G R**
+🎓 Final Year CSE | SRM TRP Engineering College
+📍 Trichy — Irungalur
+
+[![GitHub followers](https://img.shields.io/github/followers/ajayvibhas?label=Follow\&style=social)](https://github.com/ajayvibhas)
+
+---
+
+> *“Innovate. Implement. Inspire.”* ✨
+
