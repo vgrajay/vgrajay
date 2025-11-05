@@ -52,12 +52,16 @@
 ## 🧑‍💻 Author
 
 **Ajay Vibhas V G R**
-🎓 Final Year CSE | SRM TRP Engineering College
+🎓  CSE Graduate 2025 | SRM TRP Engineering College
 📍 Trichy — Irungalur
 
 [![GitHub followers](https://img.shields.io/github/followers/vgrajay?label=Follow\&style=social)](https://github.com/ajayvibhas)
 
 ---
+
+**CONTACT:**
+GMAIL : vgrajay@gmail.com
+PHONE : 9944121522
 
 > *“Innovate. Implement. Inspire.”* ✨
 
