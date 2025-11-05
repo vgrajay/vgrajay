@@ -2,8 +2,8 @@
 
 > 🚀 *A showcase of completed and ongoing projects built with innovation, intelligence, and impact.*
 
-![GitHub followers](https://img.shields.io/github/followers/ajayvibhas?label=Follow\&style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=ajayvibhas\&label=Profile%20views\&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/vgrajay?label=Follow\&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=vgrajay\&label=Profile%20views\&color=blue)
 
 ---
 
@@ -55,7 +55,7 @@
 🎓 Final Year CSE | SRM TRP Engineering College
 📍 Trichy — Irungalur
 
-[![GitHub followers](https://img.shields.io/github/followers/ajayvibhas?label=Follow\&style=social)](https://github.com/ajayvibhas)
+[![GitHub followers](https://img.shields.io/github/followers/vgrajay?label=Follow\&style=social)](https://github.com/ajayvibhas)
 
 ---
 
