@@ -60,7 +60,9 @@
 ---
 
 **CONTACT:**
+
 *GMAIL : vgrajay@gmail.com
+
 *PHONE : 9944121522
 
 > *“Innovate. Implement. Inspire.”* ✨
