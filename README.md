@@ -3,6 +3,7 @@
 > 🚀 *A showcase of completed and ongoing projects built with innovation, intelligence, and impact.*
 
 ![GitHub followers](https://img.shields.io/github/followers/vgrajay?label=Follow\&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=vgrajay\&label=Profile%20views\&color=blue)
 
 ---
 
