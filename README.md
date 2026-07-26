@@ -2,9 +2,14 @@
 
 > 🚀 *A showcase of completed and ongoing projects built with innovation, intelligence, and impact.*
 
-![GitHub followers](https://img.shields.io/github/followers/vgrajay?label=Follow\&style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=vgrajay\&label=Profile%20views\&color=blue)
-![protfolio](https://vgrajay.github.io/Ajay-portfolio/)
+<!-- GitHub Followers Badge -->
+[![GitHub followers](https://img.shields.io/github/followers/vgrajay?label=Follow&style=social)](https://github.com/vgrajay)
+
+<!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=vgrajay&label=Profile%20views&color=blue)
+
+<!-- Interactive Portfolio Badge -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-007ACC?style=flat&logo=googlechrome)](https://vgrajay.github.io/Ajay-portfolio/)
 ---
 
 ## ✅ Finished Project
